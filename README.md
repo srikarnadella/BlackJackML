@@ -1,6 +1,6 @@
 ## Table of Contents
-- [Non-DQN Blackjack Agent](#non-dqn-blackjack-agent)  <-- Added section
-- [Deep Q-Learning Network (DQN) for Blackjack](#deep-q-learning-network-dqn-for-blackjack)  <-- Added section
+- [Non-DQN Blackjack Agent](#non-dqn-blackjack-agent)  
+- [Deep Q-Learning Network (DQN) for Blackjack](#deep-q-learning-network-dqn-for-blackjack) 
 
 # Non-DQN Blackjack Agent
 ## Introduction
